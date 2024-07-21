@@ -2,6 +2,8 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+.idea/
+tool-rental.iml
 
 ### Eclipse ###
 .apt_generated
